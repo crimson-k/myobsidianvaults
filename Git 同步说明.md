@@ -10,6 +10,10 @@
 
 已配置启动时拉取，每 10 分钟自动提交同步、拉取。自动操作需要 Obsidian 正在运行且网络与 GitHub 登录有效。首次使用请在「设置 → 第三方插件」确认 **Git** 已启用；安装文件后重新启动 Obsidian。
 
+这台电脑已在「Git → Advanced → Custom Git binary path」指定 `C:\Users\amber\AppData\Local\Programs\Git\cmd\git.exe`。这个路径只存储在当前设备，新电脑按自己的 Git 安装位置设置。如果出现 `cannot run git command`，先确认 Git 已安装，再设置这个字段并点击 Reload。
+
+这台电脑的仓库使用现有代理 `http://127.0.0.1:7897` 连接 GitHub，请保持对应代理服务运行。代理设置与登录凭据不随仓库同步；新电脑根据自身网络配置。
+
 ## 新电脑首次获取
 
 安装 Git 和 Obsidian。在 PowerShell 中执行（目标文件夹应不存在或为空）：
