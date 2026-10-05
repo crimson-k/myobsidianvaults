@@ -1,0 +1,13 @@
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+.git_credentials_input*
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+!.env.example
+*.tmp
+*.swp

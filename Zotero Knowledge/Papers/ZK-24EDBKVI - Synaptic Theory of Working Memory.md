@@ -1,0 +1,45 @@
+---
+type: "literature-note"
+title: "Synaptic Theory of Working Memory"
+aliases: ["Synaptic Theory of Working Memory"]
+zotero_keys: ["24EDBKVI"]
+year: 2008
+authors: ["Gianluigi Mongillo", "Omri Barak", "Misha Tsodyks"]
+venue: "Science"
+venue_field: "publicationTitle"
+doi: "10.1126/science.1150769"
+url: "https://www.science.org/doi/10.1126/science.1150769"
+collections: ["08 Cognition & Consciousness/Attention & Working Memory"]
+source_tags: []
+tags: ["zotero", "literature"]
+reading_status: "unreviewed-import"
+imported_at: "2026-10-02T23:59:30+08:00"
+---
+
+# Synaptic Theory of Working Memory
+
+[Zotero 条目 24EDBKVI](zotero://select/library/items/24EDBKVI)
+
+[DOI 原文](https://doi.org/10.1126/science.1150769)
+
+[来源网页](https://www.science.org/doi/10.1126/science.1150769)
+
+## 主题与知识联系
+
+- [[Zotero Knowledge/Topics/08 Cognition & Consciousness/Attention & Working Memory/索引|08 Cognition & Consciousness/Attention & Working Memory]]
+
+概念地图：[[Zotero Knowledge/Concepts/注意力工作记忆与意识|注意力工作记忆与意识]]
+
+## 原始摘要
+
+It is usually assumed that enhanced spiking activity in the form of persistent reverberation for several seconds is the neural correlate of working memory. Here, we propose that working memory is sustained by calcium-mediated synaptic facilitation in the recurrent connections of neocortical networks. In this account, the presynaptic residual calcium is used as a buffer that is loaded, refreshed, and read out by spiking activity. Because of the long time constants of calcium kinetics, the refresh rate can be low, resulting in a mechanism that is metabolically efficient and robust. The duration and stability of working memory can be regulated by modulating the spontaneous activity in the network.
+
+## 附件与批注
+
+无附件记录。
+
+## 我的阅读与思考
+
+<!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
+
+[[Zotero Knowledge/知识库首页|返回知识库首页]]
