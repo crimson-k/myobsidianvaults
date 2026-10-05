@@ -1,19 +1,16 @@
 {
-  "pluginVersion": "2.41.1",
-  "settings": {
-    "showStatusBar": true,
-    "autoPullOnBoot": true,
-    "autoCommitMessage": "vault backup: {{date}}",
-    "commitMessage": "vault backup: {{date}}",
-    "limitToVault": true,
-    "autoPushInterval": 0,
-    "differentIntervalCommitAndPush": false,
-    "autoPullInterval": 10,
-    "pullBeforePush": true,
-    "syncMethod": "merge",
-    "disablePush": false,
-    "autoSaveInterval": 10,
-    "showErrorNotices": true,
-    "autoBackupAfterFileChange": false
-  }
+  "showStatusBar": true,
+  "autoPullOnBoot": true,
+  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
+  "limitToVault": true,
+  "autoPushInterval": 0,
+  "differentIntervalCommitAndPush": false,
+  "autoPullInterval": 10,
+  "pullBeforePush": true,
+  "syncMethod": "merge",
+  "disablePush": false,
+  "autoSaveInterval": 10,
+  "showErrorNotices": true,
+  "autoBackupAfterFileChange": false
 }
