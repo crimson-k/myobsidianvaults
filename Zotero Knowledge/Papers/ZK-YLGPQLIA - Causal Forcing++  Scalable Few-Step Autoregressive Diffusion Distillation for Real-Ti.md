@@ -2,7 +2,7 @@
 type: "literature-note"
 title: "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation"
 aliases: ["Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation"]
-zotero_keys: ["YLGPQLIA"]
+zotero_keys: ["YLGPQLIA", "MEILYEYD"]
 year: 2026
 authors: ["Min Zhao", "Hongzhou Zhu", "Kaiwen Zheng", "Zihan Zhou", "Bokai Yan", "Xinyuan Li", "Xiao Yang", "Chongxuan Li", "Jun Zhu"]
 venue: "arXiv"
@@ -43,6 +43,12 @@ Real-time interactive video generation requires low-latency, streaming, and cont
 ### Snapshot
 
 [在 Zotero 查看附件](zotero://select/library/items/JAFJCHPQ)
+
+## 合并条目与附件来源
+
+- [Zotero 条目 MEILYEYD](zotero://select/library/items/MEILYEYD)
+- [来源网页](https://huggingface.co/papers/2605.15141)
+- [在 Zotero 查看附件](zotero://select/library/items/EE8EKM3U)
 
 ## 我的阅读与思考
 

@@ -2,7 +2,7 @@
 type: "literature-note"
 title: "VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models"
 aliases: ["VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models"]
-zotero_keys: ["7TDQKU5X"]
+zotero_keys: ["7TDQKU5X", "7NS2ZFD8"]
 year: 2025
 authors: ["Xiangdong Zhang", "Jiaqi Liao", "Shaofeng Zhang", "Fanqing Meng", "Xiangpeng Wan", "Junchi Yan", "Yu Cheng"]
 venue: "arXiv"
@@ -141,6 +141,12 @@ Recent advancements in text-to-video (T2V) diffusion models have enabled high-fi
 [批注 KPYTEKRH · 第 15 页](zotero://open-pdf/library/items/UJNSF6DC?annotation=KPYTEKRH&page=15)
 
 > processing all frames at a reduced resolution.
+
+## 合并条目与附件来源
+
+- [Zotero 条目 7NS2ZFD8](zotero://select/library/items/7NS2ZFD8)
+- [来源网页](https://www.google.com/search?q=VideoREPA&oq=v&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgYIAhBFGDsyEAgDEAAYkQIYgAQYigUYtAcyEAgEEAAYkQIYgAQYigUYtAcyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQc0MzRqMGo0qAIAsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8)
+- [在 Zotero 查看附件](zotero://select/library/items/AI896M9G)
 
 ## 我的阅读与思考
 

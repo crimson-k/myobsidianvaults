@@ -2,7 +2,7 @@
 type: "literature-note"
 title: "World Simulation with Video Foundation Models for Physical AI"
 aliases: ["World Simulation with Video Foundation Models for Physical AI"]
-zotero_keys: ["C5IASRIZ"]
+zotero_keys: ["C5IASRIZ", "BSX3SLYB"]
 year: 2025
 authors: ["NVIDIA", ":", "Arslan Ali", "Junjie Bai", "Maciej Bala", "Yogesh Balaji", "Aaron Blakeman", "Tiffany Cai", "Jiaxin Cao", "Tianshi Cao", "Elizabeth Cha", "Yu-Wei Chao", "Prithvijit Chattopadhyay", "Mike Chen", "Yongxin Chen", "Yu Chen", "Shuai Cheng", "Yin Cui", "Jenna Diamond", "Yifan Ding", "Jiaojiao Fan", "Linxi Fan", "Liang Feng", "Francesco Ferroni", "Sanja Fidler", "Xiao Fu", "Ruiyuan Gao", "Yunhao Ge", "Jinwei Gu", "Aryaman Gupta", "Siddharth Gururani", "Imad El Hanafi", "Ali Hassani", "Zekun Hao", "Jacob Huffman", "Joel Jang", "Pooya Jannaty", "Jan Kautz", "Grace Lam", "Xuan Li", "Zhaoshuo Li", "Maosheng Liao", "Chen-Hsuan Lin", "Tsung-Yi Lin", "Yen-Chen Lin", "Huan Ling", "Ming-Yu Liu", "Xian Liu", "Yifan Lu", "Alice Luo", "Qianli Ma", "Hanzi Mao", "Kaichun Mo", "Seungjun Nah", "Yashraj Narang", "Abhijeet Panaskar", "Lindsey Pavao", "Trung Pham", "Morteza Ramezanali", "Fitsum Reda", "Scott Reed", "Xuanchi Ren", "Haonan Shao", "Yue Shen", "Stella Shi", "Shuran Song", "Bartosz Stefaniak", "Shangkun Sun", "Shitao Tang", "Sameena Tasmeen", "Lyne Tchapmi", "Wei-Cheng Tseng", "Jibin Varghese", "Andrew Z. Wang", "Hao Wang", "Haoxiang Wang", "Heng Wang", "Ting-Chun Wang", "Fangyin Wei", "Jiashu Xu", "Dinghao Yang", "Xiaodong Yang", "Haotian Ye", "Seonghyeon Ye", "Xiaohui Zeng", "Jing Zhang", "Qinsheng Zhang", "Kaiwen Zheng", "Andrew Zhu", "Yuke Zhu"]
 venue: "arXiv"
@@ -73,6 +73,11 @@ Last synced: 2026/5/27 20:11:33
 [批注 9XEN36PV · 第 33 页](zotero://open-pdf/library/items/Y3BZM8GB?annotation=9XEN36PV&page=33)
 
 > we add an action embedder MLP that maps each action into a tensor. Instead of injecting this tensor directly, we incorporate it by adding it to the timestamp embeddings of the DiT modules.
+
+## 合并条目与附件来源
+
+- [Zotero 条目 BSX3SLYB](zotero://select/library/items/BSX3SLYB)
+- [独立 PDF 版本（2025-10-28）](zotero://open-pdf/library/items/BSX3SLYB)
 
 ## 我的阅读与思考
 
