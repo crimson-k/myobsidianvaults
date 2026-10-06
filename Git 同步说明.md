@@ -47,6 +47,6 @@ git push
 
 拉取前先提交本地修改。有冲突时暂停编辑，在冲突文件中保留正确内容，再完成合并或 rebase；不要用强制推送覆盖另一台设备。
 
-本仓库包含文献 Markdown、主题索引与 PPT 页面图片。Zotero PDF 和原始 PPT 仍在原来的外部位置；另一台电脑需另行同步 Zotero 库及附件，才能使用相应 Zotero 链接。
+本仓库包含文献 Markdown、主题索引、PPT 页面图片，以及两份 PPT 原文件。PPT 位于 `Zotero Knowledge/Assets/Original PPTs`，使用库内相对链接，随 Git 一并同步。Zotero 中的 PDF 继续保留 Zotero 链接，不复制到 vault；另一台电脑需同步 Zotero 库及附件，才能使用相应 PDF 链接。
 
 插件文档：https://publish.obsidian.md/git-doc/Start+here

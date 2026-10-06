@@ -42,7 +42,7 @@ An important paradigm of natural language processing consists of large-scale pre
 
 ## PPT 文献分享原页
 
-来源：[第 1 组原 PPT](file:///C:/Users/amber/Documents/xwechat_files/wxid_ojd0ni9ss2gz12_0e91/msg/file/2026-09/%E9%A1%B9%E7%9B%AE%E4%B8%80%E7%AC%AC1%E5%B0%8F%E7%BB%84%281%29.pptx)，原文件第 55–68 页。
+来源：[第 1 组原 PPT](../Assets/Original%20PPTs/%E9%A1%B9%E7%9B%AE%E4%B8%80%E7%AC%AC1%E5%B0%8F%E7%BB%84%281%29.pptx)，原文件第 55–68 页。
 
 页面图保留原图表、公式和排版；下方折叠文本供搜索。汇报中的解释、教学示例和实验数字均属于来源材料，尚未逐项对照论文全文复核。
 
