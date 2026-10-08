@@ -11,7 +11,7 @@ doi: "10.48550/ARXIV.2410.06940"
 url: "https://arxiv.org/abs/2410.06940"
 collections: ["06 Alignment & Reliability/Representation Alignment"]
 source_tags: ["Computer Vision and Pattern Recognition (cs.CV)", "FOS: Computer and information sciences", "Machine Learning (cs.LG)"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/物理一致性与表征对齐", "concept-primary/物理一致性与表征对齐"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

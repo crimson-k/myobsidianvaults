@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2607.02642"
 url: "http://arxiv.org/abs/2607.02642"
 collections: ["05 Robot Learning/Simulation for Training & Evaluation"]
 source_tags: ["Computer Science - Robotics"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/世界模型评测与功能有效性", "concept-primary/世界模型评测与功能有效性"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

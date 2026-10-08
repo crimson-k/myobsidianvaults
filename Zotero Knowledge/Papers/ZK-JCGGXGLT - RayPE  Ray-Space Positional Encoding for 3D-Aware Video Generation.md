@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2606.27345"
 url: "http://arxiv.org/abs/2606.27345"
 collections: ["03 Visual Generation/Camera & Motion Control"]
 source_tags: ["Computer Science - Computer Vision and Pattern Recognition"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/几何先验与跨视角生成", "concept-primary/几何先验与跨视角生成"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

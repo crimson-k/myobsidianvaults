@@ -11,7 +11,7 @@ doi: "10.1126/science.aan8871"
 url: "https://www.science.org/doi/10.1126/science.aan8871"
 collections: ["08 Cognition & Consciousness/Consciousness & Self"]
 source_tags: []
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/注意力工作记忆与意识", "concept-primary/注意力工作记忆与意识"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

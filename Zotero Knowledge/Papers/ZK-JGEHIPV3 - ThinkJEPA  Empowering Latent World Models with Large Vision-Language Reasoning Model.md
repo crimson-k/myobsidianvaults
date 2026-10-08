@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2603.22281"
 url: "http://arxiv.org/abs/2603.22281"
 collections: ["04 World Models/Latent & Object-Centric Dynamics"]
 source_tags: ["Computer Science - Artificial Intelligence", "Computer Science - Computation and Language", "Computer Science - Computer Vision and Pattern Recognition", "Computer Science - Machine Learning", "Computer Science - Robotics"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/表征学习与世界模型", "concept-primary/表征学习与世界模型"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

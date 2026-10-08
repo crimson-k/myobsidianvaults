@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2606.01027"
 url: "http://arxiv.org/abs/2606.01027"
 collections: ["05 Robot Learning/World-Action Models"]
 source_tags: ["Computer Science - Robotics"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/世界动作模型与未来预测的作用", "concept-primary/世界动作模型与未来预测的作用"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

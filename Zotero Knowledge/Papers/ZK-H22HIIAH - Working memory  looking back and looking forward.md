@@ -11,7 +11,7 @@ doi: "10.1038/nrn1201"
 url: "https://www.nature.com/articles/nrn1201"
 collections: ["08 Cognition & Consciousness/Attention & Working Memory"]
 source_tags: []
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/注意力工作记忆与意识", "concept-primary/注意力工作记忆与意识"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

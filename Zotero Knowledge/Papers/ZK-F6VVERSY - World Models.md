@@ -11,7 +11,7 @@ doi: "10.5281/zenodo.1207631"
 url: "http://arxiv.org/abs/1803.10122"
 collections: ["05 Robot Learning/Model-Based RL & Imagination"]
 source_tags: ["Computer Science - Machine Learning", "Statistics - Machine Learning"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/想象中的规划与强化学习", "concept-primary/想象中的规划与强化学习"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

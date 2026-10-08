@@ -11,7 +11,7 @@ doi: "10.1016/j.neuron.2020.01.026"
 url: "https://linkinghub.elsevier.com/retrieve/pii/S0896627320300520"
 collections: ["08 Cognition & Consciousness/Consciousness & Self"]
 source_tags: []
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/注意力工作记忆与意识", "concept-primary/注意力工作记忆与意识"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

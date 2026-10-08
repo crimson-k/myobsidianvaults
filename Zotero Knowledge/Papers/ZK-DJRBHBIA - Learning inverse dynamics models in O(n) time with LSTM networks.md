@@ -11,7 +11,7 @@ doi: "10.1109/HUMANOIDS.2017.8246965"
 url: "https://ieeexplore.ieee.org/document/8246965"
 collections: ["05 Robot Learning/Planning & Inverse Control"]
 source_tags: ["Computational modeling", "Gaussian processes", "Inverse problems", "Predictive models", "Robot sensing systems", "Training"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/动作接口与逆动力学", "concept-primary/动作接口与逆动力学"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2404.08471"
 url: "http://arxiv.org/abs/2404.08471"
 collections: ["02 Representation & Perception/Visual Representation Learning"]
 source_tags: ["Computer Science - Artificial Intelligence", "Computer Science - Computer Vision and Pattern Recognition", "Computer Science - Machine Learning"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/表征学习与世界模型", "concept-primary/表征学习与世界模型"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

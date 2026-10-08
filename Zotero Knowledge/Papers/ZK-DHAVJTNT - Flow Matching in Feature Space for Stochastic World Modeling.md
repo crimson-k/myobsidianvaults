@@ -11,7 +11,7 @@ doi: "10.48550/ARXIV.2606.29059"
 url: "https://arxiv.org/abs/2606.29059"
 collections: ["04 World Models/Latent & Object-Centric Dynamics"]
 source_tags: ["Artificial Intelligence (cs.AI)", "Computer Vision and Pattern Recognition (cs.CV)", "FOS: Computer and information sciences"]
-tags: ["zotero", "literature", "highlight"]
+tags: ["zotero", "literature", "highlight", "concept/表征学习与世界模型", "concept-primary/表征学习与世界模型"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

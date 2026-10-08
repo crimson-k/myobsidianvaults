@@ -11,7 +11,7 @@ doi: "10.1037/h0043158"
 url: "https://doi.apa.org/doi/10.1037/h0043158"
 collections: ["08 Cognition & Consciousness/Attention & Working Memory"]
 source_tags: []
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/注意力工作记忆与意识", "concept-primary/注意力工作记忆与意识"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

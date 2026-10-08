@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2506.18088"
 url: "http://arxiv.org/abs/2506.18088"
 collections: ["07 Evaluation & Data/Robot & Multiview Data"]
 source_tags: ["Computer Science - Artificial Intelligence", "Computer Science - Computation and Language", "Computer Science - Computer Vision and Pattern Recognition", "Computer Science - Multiagent Systems", "Computer Science - Robotics"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/世界模型评测与功能有效性", "concept-primary/世界模型评测与功能有效性"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

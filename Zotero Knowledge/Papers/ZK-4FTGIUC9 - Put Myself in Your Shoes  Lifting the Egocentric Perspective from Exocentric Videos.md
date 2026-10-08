@@ -11,7 +11,7 @@ doi: "10.1007/978-3-031-72920-1_23"
 url: "https://link.springer.com/10.1007/978-3-031-72920-1_23"
 collections: ["03 Visual Generation/Cross-View & Ego-Exo Generation"]
 source_tags: []
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/几何先验与跨视角生成", "concept-primary/几何先验与跨视角生成"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

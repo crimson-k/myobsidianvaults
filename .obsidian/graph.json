@@ -1,22 +1,86 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "tag:#concept",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#concept-primary/世界动作模型与未来预测的作用",
+      "color": {
+        "a": 1,
+        "rgb": 5682409
+      }
+    },
+    {
+      "query": "tag:#concept-primary/世界模型评测与功能有效性",
+      "color": {
+        "a": 1,
+        "rgb": 15113984
+      }
+    },
+    {
+      "query": "tag:#concept-primary/几何先验与跨视角生成",
+      "color": {
+        "a": 1,
+        "rgb": 40563
+      }
+    },
+    {
+      "query": "tag:#concept-primary/动作接口与逆动力学",
+      "color": {
+        "a": 1,
+        "rgb": 13983232
+      }
+    },
+    {
+      "query": "tag:#concept-primary/想象中的规划与强化学习",
+      "color": {
+        "a": 1,
+        "rgb": 13400487
+      }
+    },
+    {
+      "query": "tag:#concept-primary/注意力工作记忆与意识",
+      "color": {
+        "a": 1,
+        "rgb": 15787074
+      }
+    },
+    {
+      "query": "tag:#concept-primary/物理一致性与表征对齐",
+      "color": {
+        "a": 1,
+        "rgb": 9142521
+      }
+    },
+    {
+      "query": "tag:#concept-primary/表征学习与世界模型",
+      "color": {
+        "a": 1,
+        "rgb": 52945
+      }
+    },
+    {
+      "query": "tag:#concept-primary/视频生成的因果化与流式推理",
+      "color": {
+        "a": 1,
+        "rgb": 16416669
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 0.7,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.08,
+  "repelStrength": 15,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 100,
   "scale": 1.0000000412460432,
   "close": true
 }

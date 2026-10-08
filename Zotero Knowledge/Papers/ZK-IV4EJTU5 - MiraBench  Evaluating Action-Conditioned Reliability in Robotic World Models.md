@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2605.29360"
 url: "http://arxiv.org/abs/2605.29360"
 collections: ["07 Evaluation & Data/World Model Benchmarks"]
 source_tags: ["Computer Science - Artificial Intelligence"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/世界模型评测与功能有效性", "concept-primary/世界模型评测与功能有效性"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

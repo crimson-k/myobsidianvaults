@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2606.28128"
 url: "http://arxiv.org/abs/2606.28128"
 collections: ["06 Alignment & Reliability/Physics Grounding & Rollout Verification"]
 source_tags: ["Computer Science - Artificial Intelligence", "Computer Science - Computer Vision and Pattern Recognition", "Computer Science - Robotics"]
-tags: ["zotero", "literature", "highlight"]
+tags: ["zotero", "literature", "highlight", "concept/物理一致性与表征对齐", "concept-primary/物理一致性与表征对齐"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

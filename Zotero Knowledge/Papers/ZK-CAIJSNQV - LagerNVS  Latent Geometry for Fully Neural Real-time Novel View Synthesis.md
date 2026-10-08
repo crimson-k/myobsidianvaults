@@ -11,7 +11,7 @@ doi: "10.48550/ARXIV.2603.20176"
 url: "https://arxiv.org/abs/2603.20176"
 collections: ["02 Representation & Perception/3D Reconstruction & Novel Views"]
 source_tags: ["Computer Vision and Pattern Recognition (cs.CV)", "FOS: Computer and information sciences"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/几何先验与跨视角生成", "concept-primary/几何先验与跨视角生成"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

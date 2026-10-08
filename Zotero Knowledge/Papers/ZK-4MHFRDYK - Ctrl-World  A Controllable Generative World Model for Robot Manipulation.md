@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2510.10125"
 url: "http://arxiv.org/abs/2510.10125"
 collections: ["04 World Models/Video-Based Interactive Simulation"]
 source_tags: ["Artificial Intelligence (cs.AI)", "Computer Science - Artificial Intelligence", "Computer Science - Robotics", "FOS: Computer and information sciences", "Robotics (cs.RO)", "notion"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/动作接口与逆动力学", "concept-primary/动作接口与逆动力学"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

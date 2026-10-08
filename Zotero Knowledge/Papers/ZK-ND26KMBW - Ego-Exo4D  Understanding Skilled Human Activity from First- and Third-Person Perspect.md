@@ -11,7 +11,7 @@ doi: "10.1109/CVPR52733.2024.01834"
 url: "https://ieeexplore.ieee.org/document/10658224/"
 collections: ["07 Evaluation & Data/Robot & Multiview Data"]
 source_tags: []
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/世界模型评测与功能有效性", "concept-primary/世界模型评测与功能有效性"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

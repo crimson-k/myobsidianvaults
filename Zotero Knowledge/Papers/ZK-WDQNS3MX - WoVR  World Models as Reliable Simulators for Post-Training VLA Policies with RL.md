@@ -11,7 +11,7 @@ doi: "10.48550/ARXIV.2602.13977"
 url: "https://arxiv.org/abs/2602.13977"
 collections: ["05 Robot Learning/Simulation for Training & Evaluation"]
 source_tags: ["Artificial Intelligence (cs.AI)", "FOS: Computer and information sciences", "Robotics (cs.RO)", "notion"]
-tags: ["zotero", "literature", "highlight"]
+tags: ["zotero", "literature", "highlight", "concept/想象中的规划与强化学习", "concept-primary/想象中的规划与强化学习"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

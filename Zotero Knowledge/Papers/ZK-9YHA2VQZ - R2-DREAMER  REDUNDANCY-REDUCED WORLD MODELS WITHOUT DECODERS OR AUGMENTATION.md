@@ -11,7 +11,7 @@ doi: ""
 url: ""
 collections: ["05 Robot Learning/Model-Based RL & Imagination"]
 source_tags: []
-tags: ["zotero", "literature", "highlight"]
+tags: ["zotero", "literature", "highlight", "concept/想象中的规划与强化学习", "concept-primary/想象中的规划与强化学习"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2412.15109"
 url: "http://arxiv.org/abs/2412.15109"
 collections: ["05 Robot Learning/World-Action Models"]
 source_tags: ["Computer Science - Robotics"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/动作接口与逆动力学", "concept-primary/动作接口与逆动力学"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---

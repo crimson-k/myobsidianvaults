@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2503.04606"
 url: "http://arxiv.org/abs/2503.04606"
 collections: ["03 Visual Generation/General Video Generation"]
 source_tags: ["Computer Science - Artificial Intelligence", "Computer Science - Computation and Language", "Computer Science - Computer Vision and Pattern Recognition", "Computer Science - Machine Learning"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/视频生成的因果化与流式推理", "concept-primary/视频生成的因果化与流式推理"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---
