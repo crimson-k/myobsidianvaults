@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2301.08243"
 url: "http://arxiv.org/abs/2301.08243"
 collections: ["02 Representation & Perception/Visual Representation Learning"]
 source_tags: ["Computer Science - Artificial Intelligence", "Computer Science - Computer Vision and Pattern Recognition", "Computer Science - Machine Learning", "Electrical Engineering and Systems Science - Image and Video Processing"]
-tags: ["zotero", "literature", "concept/表征学习与世界模型", "concept-primary/表征学习与世界模型"]
+tags: ["zotero", "literature", "concept/表征学习与世界模型", "concept-primary/表征学习与世界模型", "concept/视觉自监督的目标与表征结构"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---
@@ -69,3 +69,5 @@ Comment: 2023 IEEE/CVF International Conference on Computer Vision
 - [[Zotero Knowledge/Papers/ZK-EJEPANDU - V-JEPA 2  Self-Supervised Video Models Enable Understanding, Prediction and Planning|V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning]] — 中关联；共同研究内容：表征预测 / JEPA、视觉自监督。
 
 <!-- content-relations:end -->
+
+- [[Zotero Knowledge/Concepts/视觉自监督的目标与表征结构|视觉自监督的目标与表征结构]]

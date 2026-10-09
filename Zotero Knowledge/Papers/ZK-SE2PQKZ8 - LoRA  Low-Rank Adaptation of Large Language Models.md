@@ -9,7 +9,7 @@ venue: "ICLR 2022"
 doi: ""
 url: "https://arxiv.org/abs/2106.09685"
 collections: ["06 Alignment & Reliability/Adaptation & Generalization", "90 Projects/Pattern Recognition Course/Project 1/Group 1"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1", "concept/微调策略与泛化鲁棒性", "concept-primary/微调策略与泛化鲁棒性"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [55, 68]
@@ -755,3 +755,13 @@ An important paradigm of natural language processing consists of large-scale pre
 - [[Zotero Knowledge/Papers/ZK-Y364L7RZ - MultiLoReFT  Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning|MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning]] — 中关联；共同研究内容：低秩与参数高效微调。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Adaptation & Generalization/索引|06 Alignment & Reliability/Adaptation & Generalization]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/微调策略与泛化鲁棒性|微调策略与泛化鲁棒性]]
+<!-- research-integration:end -->

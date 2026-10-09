@@ -69,6 +69,27 @@
         "a": 1,
         "rgb": 16416669
       }
+    },
+    {
+      "query": "tag:#concept-primary/视觉自监督的目标与表征结构",
+      "color": {
+        "a": 1,
+        "rgb": 5011624
+      }
+    },
+    {
+      "query": "tag:#concept-primary/跨模态对齐与模态间隙",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#concept-primary/微调策略与泛化鲁棒性",
+      "color": {
+        "a": 1,
+        "rgb": 11696546
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +102,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 150,
-  "scale": 0.1316872482299301,
+  "scale": 0.13168724822992953,
   "close": false
 }

@@ -9,7 +9,7 @@ venue: "ECCV 2026"
 doi: ""
 url: "https://arxiv.org/abs/2607.01987"
 collections: ["02 Representation & Perception/Visual Representation Learning", "90 Projects/Pattern Recognition Course/Project 1/Group 1"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1", "concept/视觉自监督的目标与表征结构", "concept-primary/视觉自监督的目标与表征结构"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [124, 139]
@@ -575,3 +575,13 @@ We introduce a controlled subspace intervention framework to investigate how sel
 - [[Zotero Knowledge/Papers/ZK-Y364L7RZ - MultiLoReFT  Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning|MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning]] — 中关联；共同研究内容：低秩与参数高效微调。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Visual Representation Learning/索引|02 Representation & Perception/Visual Representation Learning]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/视觉自监督的目标与表征结构|视觉自监督的目标与表征结构]]
+<!-- research-integration:end -->

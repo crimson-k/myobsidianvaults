@@ -9,7 +9,7 @@ venue: "ACL-IJCNLP 2021"
 doi: ""
 url: "https://arxiv.org/abs/2012.13255"
 collections: ["06 Alignment & Reliability/Adaptation & Generalization", "90 Projects/Pattern Recognition Course/Project 1/Group 1"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1", "concept/微调策略与泛化鲁棒性", "concept-primary/微调策略与泛化鲁棒性"]
 reading_status: "presentation-import"
 ppt_role: "extension"
 ppt_pages: [59, 59]
@@ -105,3 +105,13 @@ Although pretrained language models can be fine-tuned to produce state-of-the-ar
 - [[Zotero Knowledge/Papers/ZK-RAH7V3N7 - Low-Rank Rescaled Vision Transformer Fine-Tuning  A Residual Design Approach|Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach]] — 中关联；共同研究内容：低秩与参数高效微调。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Adaptation & Generalization/索引|06 Alignment & Reliability/Adaptation & Generalization]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/微调策略与泛化鲁棒性|微调策略与泛化鲁棒性]]
+<!-- research-integration:end -->

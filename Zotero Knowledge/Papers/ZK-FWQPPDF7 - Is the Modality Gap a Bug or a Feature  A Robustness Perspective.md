@@ -8,8 +8,8 @@ authors: ["Chowers, Rhea", "Naparstek, Oshri", "Barzelay, Udi", "Weiss, Yair"]
 venue: "CVPR 2026"
 doi: ""
 url: "https://arxiv.org/abs/2603.29080"
-collections: ["06 Alignment & Reliability/Robustness & OOD", "90 Projects/Pattern Recognition Course/Project 1/Group 2"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2"]
+collections: ["06 Alignment & Reliability/Robustness & OOD", "90 Projects/Pattern Recognition Course/Project 1/Group 2", "06 Alignment & Reliability/Representation Alignment", "02 Representation & Perception/Vision-Language Representation"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2", "concept/跨模态对齐与模态间隙", "concept/微调策略与泛化鲁棒性", "concept-primary/跨模态对齐与模态间隙"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [109, 120]
@@ -492,3 +492,16 @@ Many modern multi-modal models (e.g. CLIP) seek an embedding space in which the 
 - [[Zotero Knowledge/Papers/ZK-WFNXHCV8 - Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Languag|Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models]] — 中关联；共同研究内容：对比学习与跨模态编码、模态间隙。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Robustness & OOD/索引|06 Alignment & Reliability/Robustness & OOD]]
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Representation Alignment/索引|06 Alignment & Reliability/Representation Alignment]]
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Vision-Language Representation/索引|02 Representation & Perception/Vision-Language Representation]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]
+- [[Zotero Knowledge/Concepts/微调策略与泛化鲁棒性|微调策略与泛化鲁棒性]]
+<!-- research-integration:end -->

@@ -8,8 +8,8 @@ authors: ["Tonekaboni, Sana", "Schuster, Viktoria", "Uhler, Caroline"]
 venue: "ICML 2026"
 doi: ""
 url: "https://arxiv.org/abs/2607.16789"
-collections: ["02 Representation & Perception/Vision-Language Representation", "90 Projects/Pattern Recognition Course/Project 1/Group 2"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2"]
+collections: ["02 Representation & Perception/Vision-Language Representation", "90 Projects/Pattern Recognition Course/Project 1/Group 2", "06 Alignment & Reliability/Adaptation & Generalization", "06 Alignment & Reliability/Representation Alignment"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2", "concept/跨模态对齐与模态间隙", "concept/微调策略与泛化鲁棒性", "concept-primary/跨模态对齐与模态间隙"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [21, 38]
@@ -488,3 +488,16 @@ Real-world perception and decision making are inherently multimodal, integrating
 - [[Zotero Knowledge/Papers/ZK-SE2PQKZ8 - LoRA  Low-Rank Adaptation of Large Language Models|LoRA: Low-Rank Adaptation of Large Language Models]] — 中关联；共同研究内容：低秩与参数高效微调。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Vision-Language Representation/索引|02 Representation & Perception/Vision-Language Representation]]
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Adaptation & Generalization/索引|06 Alignment & Reliability/Adaptation & Generalization]]
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Representation Alignment/索引|06 Alignment & Reliability/Representation Alignment]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]
+- [[Zotero Knowledge/Concepts/微调策略与泛化鲁棒性|微调策略与泛化鲁棒性]]
+<!-- research-integration:end -->

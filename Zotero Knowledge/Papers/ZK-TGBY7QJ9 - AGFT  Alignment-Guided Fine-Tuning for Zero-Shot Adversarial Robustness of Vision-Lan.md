@@ -8,8 +8,8 @@ authors: ["Cui, Yubo", "Guan, Xianchao", "Xiong, Zijun", "Zhang, Zheng"]
 venue: "CVPR 2026"
 doi: ""
 url: "https://arxiv.org/abs/2603.29410"
-collections: ["06 Alignment & Reliability/Robustness & OOD", "90 Projects/Pattern Recognition Course/Project 1/Group 2"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2"]
+collections: ["06 Alignment & Reliability/Robustness & OOD", "90 Projects/Pattern Recognition Course/Project 1/Group 2", "06 Alignment & Reliability/Adaptation & Generalization", "06 Alignment & Reliability/Representation Alignment", "02 Representation & Perception/Vision-Language Representation"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2", "concept/微调策略与泛化鲁棒性", "concept/跨模态对齐与模态间隙", "concept-primary/微调策略与泛化鲁棒性"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [54, 64]
@@ -507,3 +507,17 @@ PPT 作者列中写有 Zihao Wang；[论文官方页面](https://openaccess.thec
 - [[Zotero Knowledge/Papers/ZK-8MDVNFZD - Diffusion Bridge  Leveraging Diffusion Model to Reduce the Modality Gap Between Text |Diffusion Bridge: Leveraging Diffusion Model to Reduce the Modality Gap Between Text and Vision for Zero-Shot Image Captioning]] — 中关联；共同研究内容：模态间隙。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Robustness & OOD/索引|06 Alignment & Reliability/Robustness & OOD]]
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Adaptation & Generalization/索引|06 Alignment & Reliability/Adaptation & Generalization]]
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Representation Alignment/索引|06 Alignment & Reliability/Representation Alignment]]
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Vision-Language Representation/索引|02 Representation & Perception/Vision-Language Representation]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/微调策略与泛化鲁棒性|微调策略与泛化鲁棒性]]
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]
+<!-- research-integration:end -->

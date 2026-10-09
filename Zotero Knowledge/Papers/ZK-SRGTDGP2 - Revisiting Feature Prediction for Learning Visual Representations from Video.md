@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2404.08471"
 url: "http://arxiv.org/abs/2404.08471"
 collections: ["02 Representation & Perception/Visual Representation Learning"]
 source_tags: ["Computer Science - Artificial Intelligence", "Computer Science - Computer Vision and Pattern Recognition", "Computer Science - Machine Learning"]
-tags: ["zotero", "literature", "concept/表征学习与世界模型", "concept-primary/表征学习与世界模型"]
+tags: ["zotero", "literature", "concept/表征学习与世界模型", "concept-primary/表征学习与世界模型", "concept/视觉自监督的目标与表征结构"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---
@@ -61,3 +61,5 @@ This paper explores feature prediction as a stand-alone objective for unsupervis
 - [[Zotero Knowledge/Papers/ZK-DHAVJTNT - Flow Matching in Feature Space for Stochastic World Modeling|Flow Matching in Feature Space for Stochastic World Modeling]] — 强关联；比较确定性视频特征预测与特征空间中的随机未来分布建模。
 
 <!-- content-relations:end -->
+
+- [[Zotero Knowledge/Concepts/视觉自监督的目标与表征结构|视觉自监督的目标与表征结构]]

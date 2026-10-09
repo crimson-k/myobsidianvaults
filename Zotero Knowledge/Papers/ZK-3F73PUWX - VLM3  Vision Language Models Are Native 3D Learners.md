@@ -11,7 +11,7 @@ doi: "10.48550/ARXIV.2605.30561"
 url: "https://arxiv.org/abs/2605.30561"
 collections: ["02 Representation & Perception/Visual Representation Learning"]
 source_tags: ["Artificial Intelligence (cs.AI)", "Computer Vision and Pattern Recognition (cs.CV)", "FOS: Computer and information sciences"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/跨模态对齐与模态间隙", "concept-primary/跨模态对齐与模态间隙"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---
@@ -43,3 +43,5 @@ Vision Language Models (VLMs) enable a unified model to solve various vision tas
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]

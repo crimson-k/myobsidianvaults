@@ -8,8 +8,8 @@ authors: ["Tschannen, Michael", "Gritsenko, Alexey", "Wang, Xiao", "Naeem, Muham
 venue: "arXiv"
 doi: ""
 url: "https://arxiv.org/abs/2502.14786"
-collections: ["02 Representation & Perception/Vision-Language Representation", "90 Projects/Pattern Recognition Course/Project 1/Group 2"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2"]
+collections: ["02 Representation & Perception/Vision-Language Representation", "90 Projects/Pattern Recognition Course/Project 1/Group 2", "02 Representation & Perception/Visual Representation Learning", "06 Alignment & Reliability/Representation Alignment"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2", "concept/跨模态对齐与模态间隙", "concept-primary/跨模态对齐与模态间隙"]
 reading_status: "presentation-import"
 ppt_role: "extension"
 ppt_pages: [53, 53]
@@ -111,3 +111,15 @@ We introduce SigLIP 2, a family of new multilingual vision-language encoders tha
 - [[Zotero Knowledge/Papers/ZK-QQB2NRRQ - Masked Autoencoders Are Scalable Vision Learners|Masked Autoencoders Are Scalable Vision Learners]] — 中关联；共同研究内容：对比学习与跨模态编码、视觉自监督。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Vision-Language Representation/索引|02 Representation & Perception/Vision-Language Representation]]
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Visual Representation Learning/索引|02 Representation & Perception/Visual Representation Learning]]
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Representation Alignment/索引|06 Alignment & Reliability/Representation Alignment]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]
+<!-- research-integration:end -->

@@ -8,8 +8,8 @@ authors: ["Zhai, Xiaohua", "Wang, Xiao", "Mustafa, Basil", "Steiner, Andreas", "
 venue: "CVPR 2022"
 doi: ""
 url: "https://arxiv.org/abs/2111.07991"
-collections: ["02 Representation & Perception/Vision-Language Representation", "90 Projects/Pattern Recognition Course/Project 1/Group 2"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2"]
+collections: ["02 Representation & Perception/Vision-Language Representation", "90 Projects/Pattern Recognition Course/Project 1/Group 2", "06 Alignment & Reliability/Adaptation & Generalization"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2", "concept/跨模态对齐与模态间隙", "concept/微调策略与泛化鲁棒性", "concept-primary/跨模态对齐与模态间隙"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [10, 20]
@@ -509,3 +509,15 @@ This paper presents contrastive-tuning, a simple method employing contrastive tr
 - [[Zotero Knowledge/Papers/ZK-W8UL68IN - Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution|Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution]] — 中关联；共同研究内容：鲁棒性与域外泛化。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Vision-Language Representation/索引|02 Representation & Perception/Vision-Language Representation]]
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Adaptation & Generalization/索引|06 Alignment & Reliability/Adaptation & Generalization]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]
+- [[Zotero Knowledge/Concepts/微调策略与泛化鲁棒性|微调策略与泛化鲁棒性]]
+<!-- research-integration:end -->

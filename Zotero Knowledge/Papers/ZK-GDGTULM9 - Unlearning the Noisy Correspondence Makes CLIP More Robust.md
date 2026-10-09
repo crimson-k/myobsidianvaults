@@ -8,8 +8,8 @@ authors: ["Han, Haochen", "Wang, Alex Jinpeng", "Ye, Peijun", "Liu, Fangming"]
 venue: "ICCV 2025"
 doi: ""
 url: "https://arxiv.org/abs/2507.03434"
-collections: ["06 Alignment & Reliability/Robustness & OOD", "90 Projects/Pattern Recognition Course/Project 1/Group 2"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2"]
+collections: ["06 Alignment & Reliability/Robustness & OOD", "90 Projects/Pattern Recognition Course/Project 1/Group 2", "02 Representation & Perception/Vision-Language Representation"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2", "concept/微调策略与泛化鲁棒性", "concept/跨模态对齐与模态间隙", "concept-primary/微调策略与泛化鲁棒性"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [79, 92]
@@ -606,3 +606,15 @@ The data appetite for Vision-Language Models (VLMs) has continuously scaled up f
 - [[Zotero Knowledge/Papers/ZK-88IZNLUX - Understanding Contrastive Representation Learning through Alignment and Uniformity on|Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere]] — 中关联；共同研究内容：对比学习与跨模态编码。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Robustness & OOD/索引|06 Alignment & Reliability/Robustness & OOD]]
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Vision-Language Representation/索引|02 Representation & Perception/Vision-Language Representation]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/微调策略与泛化鲁棒性|微调策略与泛化鲁棒性]]
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]
+<!-- research-integration:end -->

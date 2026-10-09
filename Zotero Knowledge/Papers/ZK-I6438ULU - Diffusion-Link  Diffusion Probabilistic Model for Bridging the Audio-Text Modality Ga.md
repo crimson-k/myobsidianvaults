@@ -9,7 +9,7 @@ venue: "arXiv"
 doi: ""
 url: "https://arxiv.org/abs/2510.11330"
 collections: ["06 Alignment & Reliability/Representation Alignment", "90 Projects/Pattern Recognition Course/Project 1/Group 2"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2", "concept/跨模态对齐与模态间隙", "concept-primary/跨模态对齐与模态间隙"]
 reading_status: "presentation-import"
 ppt_role: "extension"
 ppt_pages: [107, 107]
@@ -157,3 +157,13 @@ Contrastive audio-language pretraining yields powerful joint representations, ye
 - [[Zotero Knowledge/Papers/ZK-BYZ75H5L - Connect, Collapse, Corrupt  Learning Cross-Modal Tasks with Uni-Modal Data|Connect, Collapse, Corrupt: Learning Cross-Modal Tasks with Uni-Modal Data]] — 中关联；共同研究内容：对比学习与跨模态编码、模态间隙。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Representation Alignment/索引|06 Alignment & Reliability/Representation Alignment]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]
+<!-- research-integration:end -->

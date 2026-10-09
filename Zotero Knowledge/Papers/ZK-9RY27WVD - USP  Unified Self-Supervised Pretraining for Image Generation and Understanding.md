@@ -11,7 +11,7 @@ doi: "10.48550/arXiv.2503.06132"
 url: "http://arxiv.org/abs/2503.06132"
 collections: ["02 Representation & Perception/Visual Representation Learning"]
 source_tags: ["Computer Science - Computer Vision and Pattern Recognition"]
-tags: ["zotero", "literature"]
+tags: ["zotero", "literature", "concept/视觉自监督的目标与表征结构", "concept-primary/视觉自监督的目标与表征结构"]
 reading_status: "unreviewed-import"
 imported_at: "2026-10-02T23:59:30+08:00"
 ---
@@ -57,3 +57,5 @@ Comment: Accepted to ICCV2025
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+- [[Zotero Knowledge/Concepts/视觉自监督的目标与表征结构|视觉自监督的目标与表征结构]]

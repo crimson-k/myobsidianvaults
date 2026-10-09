@@ -8,8 +8,8 @@ authors: ["Kumar, Ananya", "Raghunathan, Aditi", "Jones, Robbie", "Ma, Tengyu", 
 venue: "ICLR 2022"
 doi: ""
 url: "https://arxiv.org/abs/2202.10054"
-collections: ["06 Alignment & Reliability/Adaptation & Generalization", "90 Projects/Pattern Recognition Course/Project 1/Group 1"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1"]
+collections: ["06 Alignment & Reliability/Adaptation & Generalization", "90 Projects/Pattern Recognition Course/Project 1/Group 1", "06 Alignment & Reliability/Robustness & OOD"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1", "concept/微调策略与泛化鲁棒性", "concept-primary/微调策略与泛化鲁棒性"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [69, 78]
@@ -361,3 +361,14 @@ When transferring a pretrained model to a downstream task, two popular methods a
 - [[Zotero Knowledge/Papers/ZK-W84DWQI5 - LiT  Zero-Shot Transfer with Locked-image text Tuning|LiT: Zero-Shot Transfer with Locked-image text Tuning]] — 中关联；共同研究内容：鲁棒性与域外泛化。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Adaptation & Generalization/索引|06 Alignment & Reliability/Adaptation & Generalization]]
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Robustness & OOD/索引|06 Alignment & Reliability/Robustness & OOD]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/微调策略与泛化鲁棒性|微调策略与泛化鲁棒性]]
+<!-- research-integration:end -->

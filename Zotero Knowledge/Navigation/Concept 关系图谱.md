@@ -13,6 +13,9 @@
 | [[Zotero Knowledge/Concepts/物理一致性与表征对齐|物理一致性与表征对齐]] | `#8B80F9` | 8 |
 | [[Zotero Knowledge/Concepts/表征学习与世界模型|表征学习与世界模型]] | `#00CED1` | 6 |
 | [[Zotero Knowledge/Concepts/视频生成的因果化与流式推理|视频生成的因果化与流式推理]] | `#FA7F9D` | 8 |
+| [[Zotero Knowledge/Concepts/视觉自监督的目标与表征结构|视觉自监督的目标与表征结构]] | `#4C78A8` | 11 |
+| [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]] | `#59A14F` | 13 |
+| [[Zotero Knowledge/Concepts/微调策略与泛化鲁棒性|微调策略与泛化鲁棒性]] | `#B279A2` | 12 |
 
 每篇关联论文保留全部 `concept/概念名` 标签；`concept-primary/概念名` 决定节点颜色，优先采用论文原有的第一个概念关联。Concept 节点使用相同颜色。
 
@@ -20,6 +23,6 @@
 
 只看一个概念时，在图谱搜索框输入 `tag:#concept/概念名`；或打开该 Concept 的局部关系图谱，深度设为 1。标签节点和附件节点默认隐藏，以减少共享标签造成的拥挤。
 
-未与现有 Concept 建立关联的论文继续保留在全部文献索引中，此次没有推断或新增研究分类。
+未与现有 Concept 建立关联的论文继续保留在全部文献索引中，未强行指定 Concept。研究主题分类与课程来源分别保留。
 
 [[Zotero Knowledge/论文内容关系图.canvas|查看按内容相关性安排距离的论文图谱]]

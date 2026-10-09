@@ -9,7 +9,7 @@ venue: "ICML 2021"
 doi: ""
 url: "https://arxiv.org/abs/2103.03230"
 collections: ["02 Representation & Perception/Visual Representation Learning", "90 Projects/Pattern Recognition Course/Project 1/Group 1"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1", "concept/视觉自监督的目标与表征结构", "concept-primary/视觉自监督的目标与表征结构"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [113, 123]
@@ -324,3 +324,13 @@ Self-supervised learning (SSL) is rapidly closing the gap with supervised method
 - [[Zotero Knowledge/Papers/ZK-MWND3NJ9 - Self-Supervised Visual Representation Learning  Pretrain-Finetuning or Joint Training|Self-Supervised Visual Representation Learning: Pretrain-Finetuning or Joint Training?]] — 中关联；共同研究内容：基准与数据合成、视觉自监督。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Visual Representation Learning/索引|02 Representation & Perception/Visual Representation Learning]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/视觉自监督的目标与表征结构|视觉自监督的目标与表征结构]]
+<!-- research-integration:end -->

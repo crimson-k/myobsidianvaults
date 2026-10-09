@@ -9,7 +9,7 @@ venue: "CVPR 2022"
 doi: ""
 url: "https://arxiv.org/abs/2111.06377"
 collections: ["02 Representation & Perception/Visual Representation Learning", "90 Projects/Pattern Recognition Course/Project 1/Group 1"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-1", "concept/视觉自监督的目标与表征结构", "concept-primary/视觉自监督的目标与表征结构"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [15, 41]
@@ -568,3 +568,13 @@ This paper shows that masked autoencoders (MAE) are scalable self-supervised lea
 - [[Zotero Knowledge/Papers/ZK-TVYG4KJ8 - SigLIP 2  Multilingual Vision-Language Encoders with Improved Semantic Understanding,|SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features]] — 中关联；共同研究内容：对比学习与跨模态编码、视觉自监督。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Visual Representation Learning/索引|02 Representation & Perception/Visual Representation Learning]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/视觉自监督的目标与表征结构|视觉自监督的目标与表征结构]]
+<!-- research-integration:end -->

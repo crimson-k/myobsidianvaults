@@ -8,8 +8,8 @@ authors: ["Zhai, Xiaohua", "Mustafa, Basil", "Kolesnikov, Alexander", "Beyer, Lu
 venue: "ICCV 2023"
 doi: ""
 url: "https://arxiv.org/abs/2303.15343"
-collections: ["02 Representation & Perception/Vision-Language Representation", "90 Projects/Pattern Recognition Course/Project 1/Group 2"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2"]
+collections: ["02 Representation & Perception/Vision-Language Representation", "90 Projects/Pattern Recognition Course/Project 1/Group 2", "06 Alignment & Reliability/Representation Alignment"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2", "concept/跨模态对齐与模态间隙", "concept-primary/跨模态对齐与模态间隙"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [39, 53]
@@ -773,3 +773,14 @@ We propose a simple pairwise Sigmoid loss for Language-Image Pre-training (SigLI
 - [[Zotero Knowledge/Papers/ZK-YMBWZADV - A Simple Framework for Contrastive Learning of Visual Representations|A Simple Framework for Contrastive Learning of Visual Representations]] — 中关联；共同研究内容：对比学习与跨模态编码。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Vision-Language Representation/索引|02 Representation & Perception/Vision-Language Representation]]
+- [[Zotero Knowledge/Topics/06 Alignment & Reliability/Representation Alignment/索引|06 Alignment & Reliability/Representation Alignment]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]
+<!-- research-integration:end -->

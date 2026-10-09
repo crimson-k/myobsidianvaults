@@ -9,7 +9,7 @@ venue: "ICML 2021"
 doi: ""
 url: "https://arxiv.org/abs/2103.00020"
 collections: ["02 Representation & Perception/Vision-Language Representation", "90 Projects/Pattern Recognition Course/Project 1/Group 2"]
-tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2"]
+tags: ["zotero", "literature", "course/pattern-recognition", "ppt/group-2", "concept/跨模态对齐与模态间隙", "concept-primary/跨模态对齐与模态间隙"]
 reading_status: "presentation-import"
 ppt_role: "main"
 ppt_pages: [1, 9]
@@ -360,3 +360,13 @@ State-of-the-art computer vision systems are trained to predict a fixed set of p
 - [[Zotero Knowledge/Papers/ZK-E3MAYR9A - Collaborative Face Experts Fusion in Video Generation  Boosting Identity Consistency |Collaborative Face Experts Fusion in Video Generation: Boosting Identity Consistency Across Large Face Poses]] — 强关联；对方摘要提到模型 CLIP（仅确认名称提及）。
 
 <!-- content-relations:end -->
+
+<!-- research-integration:start -->
+## 研究主题入口
+
+- [[Zotero Knowledge/Topics/02 Representation & Perception/Vision-Language Representation/索引|02 Representation & Perception/Vision-Language Representation]]
+
+## 概念比较入口
+
+- [[Zotero Knowledge/Concepts/跨模态对齐与模态间隙|跨模态对齐与模态间隙]]
+<!-- research-integration:end -->
