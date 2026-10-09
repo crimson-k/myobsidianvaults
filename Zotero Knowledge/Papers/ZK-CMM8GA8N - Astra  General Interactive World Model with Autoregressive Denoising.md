@@ -63,3 +63,12 @@ Comment: Accepted in ICLR 2026. Code is available at: https://github.com/Eternal
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-FTHILNAK - Epona  Autoregressive Diffusion World Model for Autonomous Driving|Epona: Autoregressive Diffusion World Model for Autonomous Driving]] — 中关联；共同研究内容：低延迟自回归视频、扩散生成架构、自动驾驶。
+
+<!-- content-relations:end -->

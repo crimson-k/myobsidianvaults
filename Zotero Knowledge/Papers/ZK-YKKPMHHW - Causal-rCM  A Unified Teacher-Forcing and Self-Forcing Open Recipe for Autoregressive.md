@@ -56,3 +56,15 @@ Technical Report
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-SU7DT9W7 - Causal Forcing  Autoregressive Diffusion Distillation Done Right for High-Quality Rea|Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation]] — 中关联；共同研究内容：低延迟自回归视频、少步与蒸馏、扩散生成架构。
+- [[Zotero Knowledge/Papers/ZK-CSY37EWX - One-Forcing  Towards Stable One-Step Autoregressive Video Generation|One-Forcing: Towards Stable One-Step Autoregressive Video Generation]] — 中关联；共同研究内容：低延迟自回归视频、少步与蒸馏。
+- [[Zotero Knowledge/Papers/ZK-YLGPQLIA - Causal Forcing++  Scalable Few-Step Autoregressive Diffusion Distillation for Real-Ti|Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation]] — 中关联；共同研究内容：低延迟自回归视频、动作条件预测、少步与蒸馏。
+- [[Zotero Knowledge/Papers/ZK-UNNWY4C6 - From Slow Bidirectional to Fast Autoregressive Video Diffusion Models|From Slow Bidirectional to Fast Autoregressive Video Diffusion Models]] — 中关联；共同研究内容：低延迟自回归视频、少步与蒸馏、扩散生成架构。
+
+<!-- content-relations:end -->

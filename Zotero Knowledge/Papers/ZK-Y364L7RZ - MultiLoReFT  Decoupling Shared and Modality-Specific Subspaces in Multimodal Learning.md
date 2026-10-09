@@ -477,3 +477,14 @@ Real-world perception and decision making are inherently multimodal, integrating
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-RAH7V3N7 - Low-Rank Rescaled Vision Transformer Fine-Tuning  A Residual Design Approach|Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach]] — 中关联；共同研究内容：低秩与参数高效微调。
+- [[Zotero Knowledge/Papers/ZK-3D4I5WS2 - Understanding Geometric Representations in Self-Supervised Vision Transformers via Su|Understanding Geometric Representations in Self-Supervised Vision Transformers via Subspace Intervention]] — 中关联；共同研究内容：低秩与参数高效微调。
+- [[Zotero Knowledge/Papers/ZK-SE2PQKZ8 - LoRA  Low-Rank Adaptation of Large Language Models|LoRA: Low-Rank Adaptation of Large Language Models]] — 中关联；共同研究内容：低秩与参数高效微调。
+
+<!-- content-relations:end -->

@@ -57,3 +57,14 @@ Comment: 19 pages, 9 figures
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-KPDEY62M - Fast-WAM  Do World Action Models Need Test-time Future Imagination|Fast-WAM: Do World Action Models Need Test-time Future Imagination?]] — 强关联；均保留训练期未来建模的收益，并省去推理期显式未来预测。
+- [[Zotero Knowledge/Papers/ZK-NQ3U5HJE - GWM  Towards Scalable Gaussian World Models for Robotic Manipulation|GWM: Towards Scalable Gaussian World Models for Robotic Manipulation]] — 中关联；共同研究内容：几何与三维重建、机器人操作。
+- [[Zotero Knowledge/Papers/ZK-2CYEYED5 - Latent Reasoning VLA  Latent Thinking and Prediction for Vision-Language-Action Model|Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models]] — 中关联；共同研究内容：VLA 策略、基准与数据合成、机器人操作。
+
+<!-- content-relations:end -->

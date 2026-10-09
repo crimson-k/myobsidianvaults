@@ -153,3 +153,13 @@ Comment: Github: https://github.com/DAGroup-PKU/PhysisForcing Project website: h
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-IX4MEYSF - WorldArena  A Unified Benchmark for Evaluating Perception and Functional Utility of E|WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models]] — 强关联；本篇摘要提到模型 WorldArena（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-NUQYHFKH - ABot-PhysWorld  Interactive World Foundation Model for Robotic Manipulation with Phys|ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment]] — 中关联；共同研究内容：扩散生成架构、机器人操作、物理可信度。
+
+<!-- content-relations:end -->

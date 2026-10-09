@@ -55,3 +55,14 @@ Comment: Our code is available at https://github.com/LanDiff/LanDiff
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-NGKNKNJ3 - DiCoDe  Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Lan|DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models]] — 中关联；共同研究内容：低延迟自回归视频、扩散生成架构、视频离散 / 语义 token。
+- [[Zotero Knowledge/Papers/ZK-TQGK3SJJ - SemanticGen  Video Generation in Semantic Space|SemanticGen: Video Generation in Semantic Space]] — 中关联；共同研究内容：扩散生成架构、视频离散 / 语义 token。
+- [[Zotero Knowledge/Papers/ZK-3JAB3ZN5 - Plan-X  Instruct Video Generation via Semantic Planning|Plan-X: Instruct Video Generation via Semantic Planning]] — 中关联；共同研究内容：扩散生成架构、视频离散 / 语义 token、长时程误差与记忆。
+
+<!-- content-relations:end -->

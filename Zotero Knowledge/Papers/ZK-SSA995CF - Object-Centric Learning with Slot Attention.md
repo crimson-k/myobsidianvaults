@@ -41,3 +41,12 @@ Learning object-centric representations of complex scenes is a promising step to
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-PH8VXV3X - Latent Particle World Models  Self-supervised Object-centric Stochastic Dynamics Mode|Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling]] — 强关联；比较对象中心状态分解与粒子动力学所需的场景表征。
+
+<!-- content-relations:end -->

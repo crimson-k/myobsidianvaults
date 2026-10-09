@@ -481,3 +481,14 @@ Many modern multi-modal models (e.g. CLIP) seek an embedding space in which the 
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-CDHTS2WR - Learning Transferable Visual Models From Natural Language Supervision|Learning Transferable Visual Models From Natural Language Supervision]] — 强关联；本篇摘要提到模型 CLIP（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-BYZ75H5L - Connect, Collapse, Corrupt  Learning Cross-Modal Tasks with Uni-Modal Data|Connect, Collapse, Corrupt: Learning Cross-Modal Tasks with Uni-Modal Data]] — 强关联；共同研究内容：对比学习与跨模态编码、模态间隙。
+- [[Zotero Knowledge/Papers/ZK-WFNXHCV8 - Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Languag|Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models]] — 中关联；共同研究内容：对比学习与跨模态编码、模态间隙。
+
+<!-- content-relations:end -->

@@ -392,3 +392,12 @@ Detecting out-of-distribution (OOD) examples is an important task for deploying 
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-W8UL68IN - Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution|Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution]] — 中关联；共同研究内容：鲁棒性与域外泛化。
+
+<!-- content-relations:end -->

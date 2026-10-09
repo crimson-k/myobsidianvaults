@@ -45,3 +45,15 @@ Text-to-video diffusion models have enabled high-quality video synthesis, yet of
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-7TDQKU5X - VideoREPA  Learning Physics for Video Generation through Relational Alignment with Fo|VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models]] — 强关联；均把视频编码器表征对齐到生成模型；比较 token 关系与运动子空间监督。
+- [[Zotero Knowledge/Papers/ZK-HTLE6SI6 - SARA  Semantically Adaptive Relational Alignment for Video Diffusion Models|SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models]] — 强关联；对方摘要提到模型 MoAlign（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-AWA338G8 - Representation Alignment for Generation  Training Diffusion Transformers Is Easier Th|Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think]] — 强关联；比较生成模型的外部表征监督与视频运动专属对齐。
+- [[Zotero Knowledge/Papers/ZK-3X7CKIBU - Motion Forcing  A Decoupled Framework for Robust Video Generation in Motion Dynamics|Motion Forcing: A Decoupled Framework for Robust Video Generation in Motion Dynamics]] — 强关联；都聚焦运动动力学与物理合理性，比较运动/外观解耦与运动子空间对齐。
+
+<!-- content-relations:end -->

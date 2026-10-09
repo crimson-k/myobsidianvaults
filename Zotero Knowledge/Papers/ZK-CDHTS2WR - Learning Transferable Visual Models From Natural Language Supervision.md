@@ -347,3 +347,16 @@ State-of-the-art computer vision systems are trained to predict a fixed set of p
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-28MFNY9F - CLIP is Strong Enough to Fight Back  Test-time Counterattacks towards Zero-shot Adver|CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP]] — 强关联；对方摘要提到模型 CLIP（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-8MDVNFZD - Diffusion Bridge  Leveraging Diffusion Model to Reduce the Modality Gap Between Text |Diffusion Bridge: Leveraging Diffusion Model to Reduce the Modality Gap Between Text and Vision for Zero-Shot Image Captioning]] — 强关联；对方摘要提到模型 CLIP（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-GDGTULM9 - Unlearning the Noisy Correspondence Makes CLIP More Robust|Unlearning the Noisy Correspondence Makes CLIP More Robust]] — 强关联；对方摘要提到模型 CLIP（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-FWQPPDF7 - Is the Modality Gap a Bug or a Feature  A Robustness Perspective|Is the Modality Gap a Bug or a Feature? A Robustness Perspective]] — 强关联；对方摘要提到模型 CLIP（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-E3MAYR9A - Collaborative Face Experts Fusion in Video Generation  Boosting Identity Consistency |Collaborative Face Experts Fusion in Video Generation: Boosting Identity Consistency Across Large Face Poses]] — 强关联；对方摘要提到模型 CLIP（仅确认名称提及）。
+
+<!-- content-relations:end -->

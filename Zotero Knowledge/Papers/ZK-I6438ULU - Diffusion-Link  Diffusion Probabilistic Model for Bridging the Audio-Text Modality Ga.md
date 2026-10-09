@@ -146,3 +146,14 @@ Contrastive audio-language pretraining yields powerful joint representations, ye
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-8MDVNFZD - Diffusion Bridge  Leveraging Diffusion Model to Reduce the Modality Gap Between Text |Diffusion Bridge: Leveraging Diffusion Model to Reduce the Modality Gap Between Text and Vision for Zero-Shot Image Captioning]] — 强关联；共同研究内容：对比学习与跨模态编码、扩散生成架构、模态间隙。
+- [[Zotero Knowledge/Papers/ZK-WFNXHCV8 - Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Languag|Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models]] — 强关联；共同研究内容：对比学习与跨模态编码、模态间隙。
+- [[Zotero Knowledge/Papers/ZK-BYZ75H5L - Connect, Collapse, Corrupt  Learning Cross-Modal Tasks with Uni-Modal Data|Connect, Collapse, Corrupt: Learning Cross-Modal Tasks with Uni-Modal Data]] — 中关联；共同研究内容：对比学习与跨模态编码、模态间隙。
+
+<!-- content-relations:end -->

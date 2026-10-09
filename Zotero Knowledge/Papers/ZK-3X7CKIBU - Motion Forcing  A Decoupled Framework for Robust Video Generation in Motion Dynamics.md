@@ -57,3 +57,13 @@ Comment: https://tianshuo-xu.github.io/Motion-Forcing/
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-VAQCDKF8 - MoAlign  Motion-Centric Representation Alignment for Video Diffusion Models|MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models]] — 强关联；都聚焦运动动力学与物理合理性，比较运动/外观解耦与运动子空间对齐。
+- [[Zotero Knowledge/Papers/ZK-FGFQLWGF - PosePilot  Steering Camera Pose for Generative World Models with Self-supervised Dept|PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth]] — 中关联；共同研究内容：基准与数据合成、物理可信度、自动驾驶。
+
+<!-- content-relations:end -->

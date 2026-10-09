@@ -49,3 +49,15 @@ Embodied action planning is a core challenge in robotics, requiring models to ge
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-X3ILM5TW - Making Foresight Actionable  Repurposing Representation Alignment in World Action Mod|Making Foresight Actionable: Repurposing Representation Alignment in World Action Models]] — 强关联；都研究世界模型特征能否服务动作解码；比较潜在/像素特征融合与动作接口对齐。
+- [[Zotero Knowledge/Papers/ZK-MUJ47Y8T - DiT4DiT  Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control|DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control]] — 强关联；均利用世界模型中间特征产生动作，比较混合特征与视频/动作扩散级联。
+- [[Zotero Knowledge/Papers/ZK-EJEPANDU - V-JEPA 2  Self-Supervised Video Models Enable Understanding, Prediction and Planning|V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning]] — 强关联；比较潜在预测表征在动作规划中的使用方式。
+- [[Zotero Knowledge/Papers/ZK-ILDZSE8T - Learning Latent Dynamics for Planning from Pixels|Learning Latent Dynamics for Planning from Pixels]] — 中关联；共同研究内容：模型内规划。
+
+<!-- content-relations:end -->

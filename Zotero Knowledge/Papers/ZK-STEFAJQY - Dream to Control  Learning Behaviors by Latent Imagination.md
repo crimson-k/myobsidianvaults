@@ -59,3 +59,15 @@ Comment: 9 pages, 12 figures
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-ILDZSE8T - Learning Latent Dynamics for Planning from Pixels|Learning Latent Dynamics for Planning from Pixels]] — 强关联；比较潜在动力学上的在线规划与想象轨迹上的行为学习。
+- [[Zotero Knowledge/Papers/ZK-5XMARDBR - DayDreamer  World Models for Physical Robot Learning|DayDreamer: World Models for Physical Robot Learning]] — 强关联；对方摘要提到模型 Dreamer（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-XRENB5FA - Mastering Diverse Domains through World Models|Mastering Diverse Domains through World Models]] — 强关联；对方摘要提到模型 Dreamer（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-9YHA2VQZ - R2-DREAMER  REDUNDANCY-REDUCED WORLD MODELS WITHOUT DECODERS OR AUGMENTATION|R2-DREAMER: REDUNDANCY-REDUCED WORLD MODELS WITHOUT DECODERS OR AUGMENTATION]] — 强关联；对方摘要提到模型 Dreamer（仅确认名称提及）。
+
+<!-- content-relations:end -->

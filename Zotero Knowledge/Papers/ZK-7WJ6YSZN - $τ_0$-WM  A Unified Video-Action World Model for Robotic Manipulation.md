@@ -65,3 +65,13 @@ Comment: Our project homepge: https://finch.agibot.com/research/tau0-wm
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-4MHFRDYK - Ctrl-World  A Controllable Generative World Model for Robot Manipulation|Ctrl-World: A Controllable Generative World Model for Robot Manipulation]] — 中关联；共同研究内容：动作条件预测、机器人操作、长时程误差与记忆。
+- [[Zotero Knowledge/Papers/ZK-KH5XN2WV - DyWA  Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulat|DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation]] — 中关联；共同研究内容：世界动作模型、机器人操作。
+
+<!-- content-relations:end -->

@@ -110,3 +110,13 @@ World modeling requires forecasting uncertain futures while preserving informati
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-SRGTDGP2 - Revisiting Feature Prediction for Learning Visual Representations from Video|Revisiting Feature Prediction for Learning Visual Representations from Video]] — 强关联；比较确定性视频特征预测与特征空间中的随机未来分布建模。
+- [[Zotero Knowledge/Papers/ZK-PH8VXV3X - Latent Particle World Models  Self-supervised Object-centric Stochastic Dynamics Mode|Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling]] — 强关联；均建模随机未来；比较预训练特征空间与对象中心粒子状态。
+
+<!-- content-relations:end -->

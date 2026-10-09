@@ -146,3 +146,16 @@ The modality gap between vision and text embeddings in CLIP presents a significa
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-CDHTS2WR - Learning Transferable Visual Models From Natural Language Supervision|Learning Transferable Visual Models From Natural Language Supervision]] — 强关联；本篇摘要提到模型 CLIP（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-BYZ75H5L - Connect, Collapse, Corrupt  Learning Cross-Modal Tasks with Uni-Modal Data|Connect, Collapse, Corrupt: Learning Cross-Modal Tasks with Uni-Modal Data]] — 强关联；共同研究内容：对比学习与跨模态编码、模态间隙。
+- [[Zotero Knowledge/Papers/ZK-I6438ULU - Diffusion-Link  Diffusion Probabilistic Model for Bridging the Audio-Text Modality Ga|Diffusion-Link: Diffusion Probabilistic Model for Bridging the Audio-Text Modality Gap]] — 强关联；共同研究内容：对比学习与跨模态编码、扩散生成架构、模态间隙。
+- [[Zotero Knowledge/Papers/ZK-WFNXHCV8 - Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Languag|Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models]] — 强关联；共同研究内容：对比学习与跨模态编码、模态间隙。
+- [[Zotero Knowledge/Papers/ZK-TGBY7QJ9 - AGFT  Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Lan|AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models]] — 中关联；共同研究内容：模态间隙。
+
+<!-- content-relations:end -->

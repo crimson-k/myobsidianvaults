@@ -497,3 +497,13 @@ PPT 作者列中写有 Zihao Wang；[论文官方页面](https://openaccess.thec
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-28MFNY9F - CLIP is Strong Enough to Fight Back  Test-time Counterattacks towards Zero-shot Adver|CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP]] — 中关联；共同研究内容：鲁棒性与域外泛化。
+- [[Zotero Knowledge/Papers/ZK-8MDVNFZD - Diffusion Bridge  Leveraging Diffusion Model to Reduce the Modality Gap Between Text |Diffusion Bridge: Leveraging Diffusion Model to Reduce the Modality Gap Between Text and Vision for Zero-Shot Image Captioning]] — 中关联；共同研究内容：模态间隙。
+
+<!-- content-relations:end -->

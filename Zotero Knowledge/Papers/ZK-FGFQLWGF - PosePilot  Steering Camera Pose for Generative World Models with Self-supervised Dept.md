@@ -54,3 +54,12 @@ Accepted at IEEE/RSJ IROS 2025
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-3X7CKIBU - Motion Forcing  A Decoupled Framework for Robust Video Generation in Motion Dynamics|Motion Forcing: A Decoupled Framework for Robust Video Generation in Motion Dynamics]] — 中关联；共同研究内容：基准与数据合成、物理可信度、自动驾驶。
+
+<!-- content-relations:end -->

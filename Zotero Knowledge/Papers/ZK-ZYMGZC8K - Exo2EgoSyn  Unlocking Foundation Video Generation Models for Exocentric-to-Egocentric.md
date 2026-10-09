@@ -45,3 +45,15 @@ Foundation video generation models such as WAN 2.2 exhibit strong text- and imag
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-ZR2LFUNE - Wan  Open and Advanced Large-Scale Video Generative Models|Wan: Open and Advanced Large-Scale Video Generative Models]] — 强关联；本篇摘要提到模型 WAN 2.2（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-GKL8V5LR - 4DIFF  3D-Aware Diffusion Model for Third-to-First Viewpoint Translation|4DIFF: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation]] — 中关联；共同研究内容：几何与三维重建、第一 / 第三人称变换。
+- [[Zotero Knowledge/Papers/ZK-L4HN4GWD - EgoWorld  Translating Exocentric View to Egocentric View using Rich Exocentric Observ|EgoWorld: Translating Exocentric View to Egocentric View using Rich Exocentric Observations]] — 中关联；共同研究内容：相机与新视角、第一 / 第三人称变换。
+- [[Zotero Knowledge/Papers/ZK-CAIJSNQV - LagerNVS  Latent Geometry for Fully Neural Real-time Novel View Synthesis|LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis]] — 中关联；共同研究内容：几何与三维重建、相机与新视角。
+
+<!-- content-relations:end -->

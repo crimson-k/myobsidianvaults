@@ -743,3 +743,15 @@ An important paradigm of natural language processing consists of large-scale pre
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-EA33AYCQ - EgoX  Egocentric Video Generation from a Single Exocentric Video|EgoX: Egocentric Video Generation from a Single Exocentric Video]] — 强关联；对方摘要提到模型 LoRA（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-WE2HF7Y8 - Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning|Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning]] — 强关联；共同研究内容：低秩与参数高效微调、语言模型与语言表征。
+- [[Zotero Knowledge/Papers/ZK-RAH7V3N7 - Low-Rank Rescaled Vision Transformer Fine-Tuning  A Residual Design Approach|Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach]] — 中关联；共同研究内容：低秩与参数高效微调。
+- [[Zotero Knowledge/Papers/ZK-Y364L7RZ - MultiLoReFT  Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning|MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning]] — 中关联；共同研究内容：低秩与参数高效微调。
+
+<!-- content-relations:end -->

@@ -761,3 +761,15 @@ We propose a simple pairwise Sigmoid loss for Language-Image Pre-training (SigLI
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-TVYG4KJ8 - SigLIP 2  Multilingual Vision-Language Encoders with Improved Semantic Understanding,|SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features]] — 强关联；对方摘要提到模型 SigLIP（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-88IZNLUX - Understanding Contrastive Representation Learning through Alignment and Uniformity on|Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere]] — 强关联；共同研究内容：对比学习与跨模态编码。
+- [[Zotero Knowledge/Papers/ZK-GDGTULM9 - Unlearning the Noisy Correspondence Makes CLIP More Robust|Unlearning the Noisy Correspondence Makes CLIP More Robust]] — 中关联；共同研究内容：对比学习与跨模态编码。
+- [[Zotero Knowledge/Papers/ZK-YMBWZADV - A Simple Framework for Contrastive Learning of Visual Representations|A Simple Framework for Contrastive Learning of Visual Representations]] — 中关联；共同研究内容：对比学习与跨模态编码。
+
+<!-- content-relations:end -->

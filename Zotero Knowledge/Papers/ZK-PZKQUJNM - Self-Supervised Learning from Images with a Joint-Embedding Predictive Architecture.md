@@ -59,3 +59,13 @@ Comment: 2023 IEEE/CVF International Conference on Computer Vision
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-SRGTDGP2 - Revisiting Feature Prediction for Learning Visual Representations from Video|Revisiting Feature Prediction for Learning Visual Representations from Video]] — 强关联；共同采用表征预测而非像素重建；比较图像与视频的自监督目标。
+- [[Zotero Knowledge/Papers/ZK-EJEPANDU - V-JEPA 2  Self-Supervised Video Models Enable Understanding, Prediction and Planning|V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning]] — 中关联；共同研究内容：表征预测 / JEPA、视觉自监督。
+
+<!-- content-relations:end -->

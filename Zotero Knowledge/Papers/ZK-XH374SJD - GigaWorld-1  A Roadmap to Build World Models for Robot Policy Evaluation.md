@@ -279,3 +279,15 @@ Comment: Project page: https://open-gigaai.github.io/giga-world-1/
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-3TP5FDZ4 - WorldGym  World Model as An Environment for Policy Evaluation|WorldGym: World Model as An Environment for Policy Evaluation]] — 强关联；均检验世界模型模拟评测与真实机器人策略表现的一致性。
+- [[Zotero Knowledge/Papers/ZK-IV4EJTU5 - MiraBench  Evaluating Action-Conditioned Reliability in Robotic World Models|MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models]] — 强关联；动作忠实和长时程可靠性决定世界模型作为策略评测器的有效性。
+- [[Zotero Knowledge/Papers/ZK-4DHSY5FS - Causal World Modeling for Robot Control|Causal World Modeling for Robot Control]] — 中关联；共同研究内容：基准与数据合成、策略评测与模拟可靠性、长时程误差与记忆。
+- [[Zotero Knowledge/Papers/ZK-C5IASRIZ - World Simulation with Video Foundation Models for Physical AI|World Simulation with Video Foundation Models for Physical AI]] — 中关联；共同研究内容：基准与数据合成、策略评测与模拟可靠性、长时程误差与记忆。
+
+<!-- content-relations:end -->

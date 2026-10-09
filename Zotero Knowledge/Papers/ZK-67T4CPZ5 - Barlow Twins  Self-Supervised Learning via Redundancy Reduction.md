@@ -314,3 +314,13 @@ Self-supervised learning (SSL) is rapidly closing the gap with supervised method
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-9YHA2VQZ - R2-DREAMER  REDUNDANCY-REDUCED WORLD MODELS WITHOUT DECODERS OR AUGMENTATION|R2-DREAMER: REDUNDANCY-REDUCED WORLD MODELS WITHOUT DECODERS OR AUGMENTATION]] — 强关联；对方摘要提到模型 Barlow Twins（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-MWND3NJ9 - Self-Supervised Visual Representation Learning  Pretrain-Finetuning or Joint Training|Self-Supervised Visual Representation Learning: Pretrain-Finetuning or Joint Training?]] — 中关联；共同研究内容：基准与数据合成、视觉自监督。
+
+<!-- content-relations:end -->

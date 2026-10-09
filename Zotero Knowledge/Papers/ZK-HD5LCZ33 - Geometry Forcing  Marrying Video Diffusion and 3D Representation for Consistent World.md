@@ -59,3 +59,15 @@ Comment: 24 pages, project page: https://GeometryForcing.github.io
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-7TDQKU5X - VideoREPA  Learning Physics for Video Generation through Relational Alignment with Fo|VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models]] — 强关联；均以外部表征约束视频生成；比较三维几何结构与物理 token 关系。
+- [[Zotero Knowledge/Papers/ZK-V4F8I7PZ - WristWorld  Generating Wrist-Views via 4D World Models for Robotic Manipulation|WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation]] — 强关联；均把几何表征作为视频生成约束；比较腕部跨视角重建与生成表征对齐。
+- [[Zotero Knowledge/Papers/ZK-P3MHR9KR - CamGeo  Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors|CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors]] — 中关联；共同研究内容：几何与三维重建。
+- [[Zotero Knowledge/Papers/ZK-HF5UN3ZL - VGGRPO  Towards World-Consistent Video Generation with 4D Latent Reward|VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward]] — 中关联；共同研究内容：几何与三维重建、扩散生成架构。
+
+<!-- content-relations:end -->

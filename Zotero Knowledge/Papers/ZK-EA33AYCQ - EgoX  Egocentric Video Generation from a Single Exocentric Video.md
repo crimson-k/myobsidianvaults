@@ -56,3 +56,13 @@ Egocentric perception enables humans to experience and understand the world dire
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-SE2PQKZ8 - LoRA  Low-Rank Adaptation of Large Language Models|LoRA: Low-Rank Adaptation of Large Language Models]] — 强关联；本篇摘要提到模型 LoRA（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-L4HN4GWD - EgoWorld  Translating Exocentric View to Egocentric View using Rich Exocentric Observ|EgoWorld: Translating Exocentric View to Egocentric View using Rich Exocentric Observations]] — 中关联；共同研究内容：相机与新视角、第一 / 第三人称变换。
+
+<!-- content-relations:end -->

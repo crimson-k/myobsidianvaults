@@ -63,3 +63,14 @@ Comment: https://dit4dit.github.io/
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-KPDEY62M - Fast-WAM  Do World Action Models Need Test-time Future Imagination|Fast-WAM: Do World Action Models Need Test-time Future Imagination?]] — 强关联；比较视频建模与动作生成的耦合方式，以及是否需要显式重建未来帧。
+- [[Zotero Knowledge/Papers/ZK-SPK7VPG4 - MoWM  Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modul|MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation]] — 强关联；均利用世界模型中间特征产生动作，比较混合特征与视频/动作扩散级联。
+- [[Zotero Knowledge/Papers/ZK-KH5XN2WV - DyWA  Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulat|DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation]] — 中关联；共同研究内容：世界动作模型、机器人操作。
+
+<!-- content-relations:end -->

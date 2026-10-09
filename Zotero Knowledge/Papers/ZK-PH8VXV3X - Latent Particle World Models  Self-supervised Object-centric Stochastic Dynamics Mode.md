@@ -59,3 +59,13 @@ Comment: ICLR 2026 Oral. Project webpage: https://taldatech.github.io/lpwm-web
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-SSA995CF - Object-Centric Learning with Slot Attention|Object-Centric Learning with Slot Attention]] — 强关联；比较对象中心状态分解与粒子动力学所需的场景表征。
+- [[Zotero Knowledge/Papers/ZK-DHAVJTNT - Flow Matching in Feature Space for Stochastic World Modeling|Flow Matching in Feature Space for Stochastic World Modeling]] — 强关联；均建模随机未来；比较预训练特征空间与对象中心粒子状态。
+
+<!-- content-relations:end -->

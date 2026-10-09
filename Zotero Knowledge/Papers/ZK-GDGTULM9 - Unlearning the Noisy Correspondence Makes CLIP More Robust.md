@@ -595,3 +595,14 @@ The data appetite for Vision-Language Models (VLMs) has continuously scaled up f
 <!-- 在此补充个人笔记；导入内容与个人结论分开记录。 -->
 
 [[Zotero Knowledge/知识库首页|知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-CDHTS2WR - Learning Transferable Visual Models From Natural Language Supervision|Learning Transferable Visual Models From Natural Language Supervision]] — 强关联；本篇摘要提到模型 CLIP（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-2IQ6RLSK - Sigmoid Loss for Language Image Pre-Training|Sigmoid Loss for Language Image Pre-Training]] — 中关联；共同研究内容：对比学习与跨模态编码。
+- [[Zotero Knowledge/Papers/ZK-88IZNLUX - Understanding Contrastive Representation Learning through Alignment and Uniformity on|Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere]] — 中关联；共同研究内容：对比学习与跨模态编码。
+
+<!-- content-relations:end -->

@@ -49,3 +49,15 @@ While world models have emerged as a cornerstone of embodied intelligence by ena
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-CBHMDIZM - WorldArena 2.0  Extending Embodied World Model Benchmarking on Modality, Functionalit|WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform]] — 强关联；同系列评测框架：比较模态、功能与平台覆盖的扩展。
+- [[Zotero Knowledge/Papers/ZK-IV4EJTU5 - MiraBench  Evaluating Action-Conditioned Reliability in Robotic World Models|MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models]] — 强关联；都超越视觉质量评测；比较功能效用与动作遵循、失败乐观偏差。
+- [[Zotero Knowledge/Papers/ZK-G4MM75HL - Pelican-Unify 1.0  A Unified Embodied Intelligence Model for Understanding, Reasoning|Pelican-Unify 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action]] — 强关联；对方摘要提到模型 WorldArena（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-667F4VGC - PhysisForcing  Physics Reinforced World Simulator for Robotic Manipulation|PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation]] — 强关联；对方摘要提到模型 WorldArena（仅确认名称提及）。
+
+<!-- content-relations:end -->

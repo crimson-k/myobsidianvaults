@@ -55,3 +55,14 @@ World Action Models (WAMs) offer a promising route for robot manipulation by usi
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-SPK7VPG4 - MoWM  Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modul|MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation]] — 强关联；都研究世界模型特征能否服务动作解码；比较潜在/像素特征融合与动作接口对齐。
+- [[Zotero Knowledge/Papers/ZK-7TDQKU5X - VideoREPA  Learning Physics for Video Generation through Relational Alignment with Fo|VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models]] — 强关联；比较生成的物理可信度与动作解码可用性：两者都使用表征对齐但优化目标不同。
+- [[Zotero Knowledge/Papers/ZK-KPDEY62M - Fast-WAM  Do World Action Models Need Test-time Future Imagination|Fast-WAM: Do World Action Models Need Test-time Future Imagination?]] — 强关联；共同追问可生成未来的表征如何转化为有效动作；比较训练监督与动作接口。
+
+<!-- content-relations:end -->

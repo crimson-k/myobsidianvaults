@@ -49,3 +49,15 @@ This paper explores feature prediction as a stand-alone objective for unsupervis
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-EJEPANDU - V-JEPA 2  Self-Supervised Video Models Enable Understanding, Prediction and Planning|V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning]] — 强关联；比较视频特征预测预训练与加入动作条件、机器人规划后的能力。
+- [[Zotero Knowledge/Papers/ZK-PZKQUJNM - Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture|Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture]] — 强关联；共同采用表征预测而非像素重建；比较图像与视频的自监督目标。
+- [[Zotero Knowledge/Papers/ZK-DJ7Y6F24 - Inference-time Physics Alignment of Video Generative Models with Latent World Models|Inference-time Physics Alignment of Video Generative Models with Latent World Models]] — 强关联；对方摘要提到模型 VJEPA（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-DHAVJTNT - Flow Matching in Feature Space for Stochastic World Modeling|Flow Matching in Feature Space for Stochastic World Modeling]] — 强关联；比较确定性视频特征预测与特征空间中的随机未来分布建模。
+
+<!-- content-relations:end -->

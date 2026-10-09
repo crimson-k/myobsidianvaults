@@ -47,3 +47,13 @@ Wrist-view observations are crucial for VLA models as they capture fine-grained 
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-N3JDF44L - VGGT  Visual Geometry Grounded Transformer|VGGT: Visual Geometry Grounded Transformer]] — 强关联；本篇摘要提到模型 VGGT（仅确认名称提及）。
+- [[Zotero Knowledge/Papers/ZK-HD5LCZ33 - Geometry Forcing  Marrying Video Diffusion and 3D Representation for Consistent World|Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling]] — 强关联；均把几何表征作为视频生成约束；比较腕部跨视角重建与生成表征对齐。
+
+<!-- content-relations:end -->

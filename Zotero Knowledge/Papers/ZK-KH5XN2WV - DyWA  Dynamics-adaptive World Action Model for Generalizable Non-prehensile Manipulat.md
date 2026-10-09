@@ -54,3 +54,13 @@ Project Page:https://pku-epic.github.io/DyWA/
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-MUJ47Y8T - DiT4DiT  Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control|DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control]] — 中关联；共同研究内容：世界动作模型、机器人操作。
+- [[Zotero Knowledge/Papers/ZK-7WJ6YSZN - $τ_0$-WM  A Unified Video-Action World Model for Robotic Manipulation|$τ_0$-WM: A Unified Video-Action World Model for Robotic Manipulation]] — 中关联；共同研究内容：世界动作模型、机器人操作。
+
+<!-- content-relations:end -->

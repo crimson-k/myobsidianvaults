@@ -49,3 +49,14 @@ Action-conditioned world models are increasingly used as scalable simulators for
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-IX4MEYSF - WorldArena  A Unified Benchmark for Evaluating Perception and Functional Utility of E|WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models]] — 强关联；都超越视觉质量评测；比较功能效用与动作遵循、失败乐观偏差。
+- [[Zotero Knowledge/Papers/ZK-XH374SJD - GigaWorld-1  A Roadmap to Build World Models for Robot Policy Evaluation|GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation]] — 强关联；动作忠实和长时程可靠性决定世界模型作为策略评测器的有效性。
+- [[Zotero Knowledge/Papers/ZK-KCN9NGKR - World Action Verifier  Self-Improving World Models via Forward-Inverse Asymmetry|World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry]] — 强关联；比较错误动作/不可达未来的模型验证与失败诱发条件下的可靠性诊断。
+
+<!-- content-relations:end -->

@@ -78,3 +78,13 @@ Last synced: 2026/5/27 20:11:34
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-XH374SJD - GigaWorld-1  A Roadmap to Build World Models for Robot Policy Evaluation|GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation]] — 强关联；均检验世界模型模拟评测与真实机器人策略表现的一致性。
+- [[Zotero Knowledge/Papers/ZK-WDQNS3MX - WoVR  World Models as Reliable Simulators for Post-Training VLA Policies with RL|WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL]] — 中关联；共同研究内容：VLA 策略、动作条件预测、策略评测与模拟可靠性。
+
+<!-- content-relations:end -->

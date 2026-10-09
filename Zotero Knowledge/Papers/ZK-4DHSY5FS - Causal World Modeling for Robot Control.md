@@ -69,3 +69,12 @@ Comment: Project page: https://technology.robbyant.com/lingbot-va Code: https://
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
 
 > 本笔记合并了相同 DOI 的 2 条记录；Zotero 原条目均保留。
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-XH374SJD - GigaWorld-1  A Roadmap to Build World Models for Robot Policy Evaluation|GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation]] — 中关联；共同研究内容：基准与数据合成、策略评测与模拟可靠性、长时程误差与记忆。
+
+<!-- content-relations:end -->

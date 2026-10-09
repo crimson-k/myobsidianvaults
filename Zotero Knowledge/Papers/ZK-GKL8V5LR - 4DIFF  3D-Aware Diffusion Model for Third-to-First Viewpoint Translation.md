@@ -45,3 +45,14 @@ We present 4Diff, a 3D-aware diffusion model addressing the exo-to-ego viewpoint
 <!-- 自己的研究问题、方法比较、复现结果和引用计划写在这里。导入区是一次性快照。 -->
 
 [[Zotero Knowledge/知识库首页|返回知识库首页]]
+
+<!-- content-relations:start -->
+## 相关文献：基于内容的关联
+
+> 以下为标题、摘要及现有笔记推断的阅读关联，不代表已核实的引用或方法依赖。相关性分数仅用于库内排序。
+
+- [[Zotero Knowledge/Papers/ZK-5IAAN6WR - Exocentric-to-Egocentric Video Generation|Exocentric-to-Egocentric Video Generation]] — 中关联；共同研究内容：扩散生成架构、第一 / 第三人称变换。
+- [[Zotero Knowledge/Papers/ZK-ZYMGZC8K - Exo2EgoSyn  Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric|Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis]] — 中关联；共同研究内容：几何与三维重建、第一 / 第三人称变换。
+- [[Zotero Knowledge/Papers/ZK-4FTGIUC9 - Put Myself in Your Shoes  Lifting the Egocentric Perspective from Exocentric Videos|Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos]] — 中关联；共同研究内容：第一 / 第三人称变换。
+
+<!-- content-relations:end -->
